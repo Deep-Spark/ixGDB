@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-ixGDB is Iluvatar CUDA source-level debugger for Linux OS, based on NVIDIA [CUDA-GDB](https://github.com/NVIDIA/cuda-gdb) 10.2.
+ixGDB is Iluvatar source-level debugger for Linux OS, based on NVIDIA [CUDA-GDB](https://github.com/NVIDIA/cuda-gdb) 10.2.
 
 ixGDB provides the following capabilities:
 - Provides a seamless debugging environment that allows simultaneous debugging of both GPU and CPU code within the same application.
